@@ -4,18 +4,18 @@ My name is Collin, my pronouns are [he/him]
 
 I'm a computer science student and a dedicated hobbyist
 
-I have experience with a number of programming languages!
--Java
--C++
--Python
--Javascript
-Markup language
--HTML 
--CSS
-Software
--Eclipse
--Git/GitHub (duh)
--Adobe suite
+I have experience with a number of programming languages! <br>
+-Java <br>
+-C++ <br>
+-Python <br>
+-Javascript <br>
+Markup language <br>
+-HTML <br>
+-CSS <br>
+Software <br>
+-Eclipse <br>
+-Git/GitHub (duh) <br>
+-Adobe suite <br>
 
 I can be found on LinkedIn and LeetCode, and I have a website that showcases projects and achievements, go check it out!
 (www.collincook.com)
