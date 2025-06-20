@@ -20,7 +20,7 @@ Software <br>
 I can be found on LinkedIn and LeetCode, and I have a website that showcases projects and achievements, go check it out!
 (www.collincook.com)
 
-:file_folder::soon: I'm currently working on my personal website (collincook.com) and an app for designing robots
+:file_folder::soon: I'm currently working on my personal website and an app for designing robots
 <!--
 **collinc04/collinc04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
