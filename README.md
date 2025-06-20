@@ -4,6 +4,8 @@ My name is Collin, my pronouns are [he/him]
 
 I'm a computer science student and a dedicated hobbyist
 
+! - I am in the process of moving everything over from a school affiliated account in anticipation of a college transfer
+
 I have experience with a number of programming languages! <br>
 -Java <br>
 -C++ <br>
