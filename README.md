@@ -1,4 +1,4 @@
-# Hi, I'm Collin Cook
+# Hi, I'm Collin Cook [He/Him]
 
 <span style="color:gray; font-size:medium;">Computer Science and Engineering student, robotics AI and automation enthusiast</span><br>
 
