@@ -18,6 +18,6 @@ I work as an intern for the university in the CHiPs lab, where I work with R, Py
 
 ## stay awhile and have some fun!
 
-Linkedin: https://www.linkedin.com/in/collin-cook-00a81b367/ -feel free to connect
+LinkedIn: https://www.linkedin.com/in/collin-cook-00a81b367/ -feel free to connect
 
 and maybe even leave a like or a star on one of my projects..? 
