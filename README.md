@@ -4,7 +4,7 @@
 
 <b>My skills:</b>
 
-[![Python, CPP, Torch, Ros2, R, Java, Linux, Mongodb, Node,js, HTML, CSS](https://skillicons.dev/icons?i=python,cpp,pytorch,ros,r,java,linux,mongodb,nodejs,html,css)](https://skillicons.dev)<br>
+[![Python, CPP, Torch, Ros2, R, Java, Linux, Mongodb, Node,javascript, HTML, CSS](https://skillicons.dev/icons?i=python,cpp,pytorch,ros,r,java,linux,mongodb,nodejs,html,css)](https://skillicons.dev)<br>
 
 I currently study Computer Science with a specialization in computer engineering at Texas State university.<br>
 I'm super interested in robotics and AI, and I'm a student member of IEEE and IEEE RAS. <br>
