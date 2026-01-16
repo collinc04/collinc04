@@ -1,39 +1,23 @@
-## Hi there 👋
+# Hi, I'm Collin Cook
 
-My name is Collin, my pronouns are [he/him] 
+<span style="color:gray; font-size:medium;">Computer Science and Engineering student, robotics AI and automation enthusiast</span><br>
 
-I'm a computer science student and a dedicated hobbyist
+<b>My skills:</b>
 
-! - I am in the process of moving everything over from a school affiliated account in anticipation of a college transfer
+[![Python, CPP, Torch, Ros2, R, Java, Linux, Mongodb, Node, HTML, CSS](https://skillicons.dev/icons?i=python,cpp,pytorch,ros,r,java,linux,mongodb,nodejs,html,css)](https://skillicons.dev)<br>
 
-I have experience with a number of programming languages! <br>
--Java <br>
--C++ <br>
--Python <br>
--Javascript <br>
-Markup language <br>
--HTML <br>
--CSS <br>
-Software <br>
--Eclipse <br>
--Git/GitHub (duh) <br>
--Adobe suite <br>
+I currently study Computer Science with a specialization in computer engineering at Texas State university.<br>
+I'm super interested in robotics and AI, and I'm a student member of IEEE and IEEE RAS. <br>
 
-I can be found on LinkedIn and LeetCode, and I have a website that showcases projects and achievements, go check it out!
-(www.collincook.com)
+I work as an intern for the university in the CHiPs lab, where I work with R, Python and Pytorch
 
-:file_folder::soon: I'm currently working on my personal website and an app for designing robots
-<!--
-**collinc04/collinc04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Currently working on:
 
-Here are some ideas to get you started:
+* An IK solver library similar to KDL for motion planning in robotics to be used with ROS2
+* Retro Rust web server hosted on two old pentium II's 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## stay awhile and have some fun!
+
+Linkedin: https://www.linkedin.com/in/collin-cook-00a81b367/ -feel free to connect
+
+and maybe even leave a like or a star on one of my projects..? 
