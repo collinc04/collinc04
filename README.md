@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=800&size=30&pause=1000&color=1E6BFF&background=1CFF0000&center=true&vCenter=true&repeat=false&random=true&width=435&lines=Hi%2C+I'm+Collin+Cook+%5BHe%2FHim%5D)](https://git.io/typing-svg)
-#  
 
 <span style="color:gray; font-size:medium;">Computer Science and Engineering student, robotics AI and automation enthusiast</span><br>
 
