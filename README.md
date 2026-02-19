@@ -9,7 +9,8 @@
 I currently study Computer Science with a specialization in computer engineering at Texas State university.<br>
 I'm super interested in robotics and AI, and I'm a student member of IEEE and IEEE RAS. <br>
 
-I work as an intern for the university in the CHiPs lab, where I work with R, Python and Pytorch
+I work as an intern for the university in the CHiPs lab, where I work with R, Python and Pytorch <br>
+I'm also a member of the TXST space lab team as an embedded software developer
 
 ## Currently working on:
 
